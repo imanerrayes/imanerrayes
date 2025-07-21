@@ -1,4 +1,4 @@
-👋 Hi, I’m Imanou: Tech explorer by day, salsa dancer by night!
+👋 Hi, I’m Imanologya: Tech explorer. 
 👀 I’m intrigued by the power of cloud architecture, cybersecurity defenses, and unlocking hidden efficiencies in operations.
 🌱 Currently mastering AWS and DevOps magic, one script at a time.
 💞️ Open to collaborating on projects that challenge norms and push the limits of what tech can do.
